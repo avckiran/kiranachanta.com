@@ -1,0 +1,56 @@
+#main-header img{
+    width:  100%;
+    height: 242px;
+    object-fit: cover;
+}
+
+
+#menu-header .port-item{
+    width:30%;
+    height: 80%;
+}
+
+#menu-header .port-item:hover{
+    opacity:0.8;
+    cursor: pointer;
+}
+
+
+.bg-black{
+    background: #000;
+}
+
+
+@media(min-width: 1199px) {
+    .port-item{
+        padding: 3em !important;
+    }
+}
+
+
+
+
+.bg-home{
+    background:#2ecc71;
+}
+
+.text-home {
+    color: #2ecc71;
+}
+
+
+.bg-resume{
+    background:#3498db;
+}
+
+.bg-portfolio{
+    background:#e74c3c;
+}
+
+.bg-contact{
+    background:#34495e;
+}
+
+.thin-progress-bar{
+    height:0.5rem;
+}
