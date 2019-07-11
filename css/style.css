@@ -54,3 +54,18 @@
 .thin-progress-bar{
     height:0.5rem;
 }
+
+#experience .card-header {
+    background: #3498db;
+    color: #fff
+}
+
+#experience .text-muted{
+    color: #fff !important;
+}
+
+.project-image-logo{
+  min-width: 20%;
+  width: 30%;
+  height: 100%;
+}
